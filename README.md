@@ -6,3 +6,4 @@ I collected publically available data on the monthly changes in inflation rate (
 
 The code outputs the figure below.
 
+![inflation and gold over time graph](https://github.com/stefanobeni/inflation-and-gold/blob/main/figure1.png)
