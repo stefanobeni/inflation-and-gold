@@ -12,4 +12,5 @@ The code outputs the figure below.
 
 Notes:
 * CPI seems to be fluctuating with a period of about 4 years.
-* Price of gold and 
+* CPI reaches lowest local value at peak covid period, although this could be attributed to regular fluctuation in CPI.
+* Price of gold begins to rump up before start of COVID pandemic.
