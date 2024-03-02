@@ -10,7 +10,9 @@ The code outputs the figure below.
 
 ![inflation and gold over time graph](https://github.com/stefanobeni/inflation-and-gold/blob/main/figure1.png)
 
-Notes:
-* CPI seems to be fluctuating with a period of about 4 years.
+**Notes**:
+* CPI seems to be fluctuating with a period of about 4 years. The 'high-inflation period' of 2022/23 is an anomaly within this fluctuation.
 * CPI reaches lowest local value at peak covid period, although this could be attributed to regular fluctuation in CPI.
-* Price of gold begins to rump up before start of COVID pandemic.
+* Price of gold begins to rump up before start of COVID pandemic. What could have caused this?
+
+Could it be that the rise in the price of gold could have been an early indicator of the subsequent rise in inflation?
