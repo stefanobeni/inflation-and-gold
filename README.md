@@ -9,3 +9,7 @@ The data runs from November 2013 to November 2023.
 The code outputs the figure below.
 
 ![inflation and gold over time graph](https://github.com/stefanobeni/inflation-and-gold/blob/main/figure1.png)
+
+Notes:
+* CPI seems to be fluctuating with a period of about 4 years.
+* Price of gold and 
